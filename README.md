@@ -27,7 +27,7 @@
 
 1. 点击后会弹出配置窗口，设置 Nuget Package 要推送到的 `源地址` 和 `APIKey`（只需首次设置），测试可在 https://www.nuget.org 官网注册账号，并创建 API Key，实际私有项目需配置自己搭建的仓库 `源地址` 和 `APIKey`
    
-   ![image](https://user-images.githubusercontent.com/7261408/62542139-c8300300-b88d-11e9-91a8-796fd5b4455f.png)
+   ![image](https://user-images.githubusercontent.com/7261408/62542263-09c0ae00-b88e-11e9-87bf-e710d8bdcfcb.png)
    
 1. 输入 Nuget Package 版本号（目前需要手动输入）
 

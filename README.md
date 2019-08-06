@@ -17,7 +17,7 @@
 
    ![image](https://user-images.githubusercontent.com/7261408/62512104-34d4de80-b849-11e9-86c0-cbc6187d9599.png)
 
-1. 下载 [GrpcProtoToNugetPackage.vsix](https://github.com/mingdaocom/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackage.vsix)，在关闭所有 VS 窗口下，安装此插件
+1. 下载 [GrpcProtoToNugetPackage.vsix](https://github.com/mingdaocom/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackage.vsix)，在关闭所有 VS 窗口下，安装此插件（建议安装 VS2019）
 
 1. 安装成功后，VS 打开一个含 `proto` 文件的项目（注意：`.proto` 文件必须放在 `protos` 文件夹下）
 

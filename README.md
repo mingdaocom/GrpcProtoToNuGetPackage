@@ -2,7 +2,7 @@
 
 > GrpcProtoToNugetPackage 是一个 VS 插件，目的是将基于 gRPC 的接口定义 .proto 文件一键转成 Nuget Package，然后发布到私有仓库上。 
 
-1. 下载 [GrpcProtoToNugetPackageTemplate.zip](https://github.com/beckjin/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackageTemplate.zip)，这是一个 ASP.NET 的项目模板
+1. 下载 [GrpcProtoToNugetPackageTemplate.zip](https://github.com/mingdaocom/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackageTemplate.zip)，这是一个 ASP.NET 的项目模板
 
 1. 解压 GrpcProtoToNugetPackageTemplate.zip，进入目录执行 `dotnet new -i Grpc.Proto.To.Nuget.Package.1.0.0.nupkg` 进行模板安装 （以下为可选操作，但建议修改）
    
@@ -17,7 +17,7 @@
 
    ![image](https://user-images.githubusercontent.com/7261408/62512104-34d4de80-b849-11e9-86c0-cbc6187d9599.png)
 
-1. 下载 [GrpcProtoToNugetPackage.vsix](https://github.com/beckjin/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackage.vsix)，在关闭所有 VS 窗口下，安装此插件
+1. 下载 [GrpcProtoToNugetPackage.vsix](https://github.com/mingdaocom/GrpcProtoToNugetPackage/releases/download/0.0.1/GrpcProtoToNugetPackage.vsix)，在关闭所有 VS 窗口下，安装此插件
 
 1. 安装成功后，VS 打开一个含 `proto` 文件的项目（注意：`.proto` 文件必须放在 `protos` 文件夹下）
 

@@ -23,11 +23,11 @@
 
 1. 在 `protos` 文件夹右键选择 `Grpc Proto To Nuget Package`，如下：
 
-   ![image](https://user-images.githubusercontent.com/7261408/62517122-3dcdac00-b859-11e9-9119-95a8f2729898.png)
+   ![image](https://user-images.githubusercontent.com/7261408/62541865-3a541800-b88d-11e9-9294-b44c4a0e8735.png)
 
 1. 点击后会弹出配置窗口，设置 Nuget Package 要推送到的 `源地址` 和 `APIKey`（只需首次设置），测试可在 https://www.nuget.org 官网注册账号，并创建 API Key，实际私有项目需配置自己搭建的仓库 `源地址` 和 `APIKey`
    
-   ![image](https://user-images.githubusercontent.com/7261408/62517465-06abca80-b85a-11e9-9596-eb86979599ad.png)
+   ![image](https://user-images.githubusercontent.com/7261408/62542139-c8300300-b88d-11e9-91a8-796fd5b4455f.png)
    
 1. 输入 Nuget Package 版本号（目前需要手动输入）
 
